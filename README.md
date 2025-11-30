@@ -1,2 +1,4 @@
 # my_bash_scripts
-Bash scripts tools
+BASH скрипты для повседневного использования на десктопе и серверах
+
+
